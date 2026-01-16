@@ -4,7 +4,7 @@
 
   <groupId>org.learning.designPatterns</groupId>
   <artifactId>DesignPatterns</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>DesignPatterns</name>
